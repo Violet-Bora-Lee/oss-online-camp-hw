@@ -4,6 +4,8 @@
 
 ![OSS_CAMP](./resources/2020_oss_camp_js_jbnu.png)
 
+사업 링크: https://www.oss.kr/event/show/936a903c-aa79-4662-84ab-7ee6096106e6
+
 ## 과제 설명
 과제는 총 3개입니다. 본 리포지토리를 포크하셔서 tasks 디렉터리 안 task1.md, task2.md, task3.md을 순차적으로 풀어주세요.
 
